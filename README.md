@@ -8,6 +8,8 @@ This work SAM-SLR-v2 is an improved version of [SAM-SLR](https://github.com/jack
 
 *This repo is under construction, will be released in Oct. 2021*
 
+<img src="img/sam-slr-v2.jpg" width = "300">
+
 ## News
 [2021/10/14] The preprint version of SAM-SLR-v2 paper is available on [Arxiv](https://arxiv.org/abs/2110.06161). 
 
