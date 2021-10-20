@@ -12,6 +12,7 @@ This work SAM-SLR-v2 is an improved version of [SAM-SLR](https://github.com/jack
 
 ## News
 [2021/10/20] The source code, and pretrained models and preprocessed data for SL-GCN are released.
+
 [2021/10/14] The preprint version of SAM-SLR-v2 paper is available on [Arxiv](https://arxiv.org/abs/2110.06161). 
 
 
